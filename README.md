@@ -1,0 +1,1 @@
+This AI-Powered Facial Recognition Attendance System utilizes advanced artificial intelligence algorithms to automatically identify and record individuals based on unique facial features, revolutionizing attendance tracking with high accuracy and efficiency.
